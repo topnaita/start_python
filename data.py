@@ -17,7 +17,7 @@ print(30)
 #float
 
 print(30.1)
-
+print(20.3)
 #boolean
 True
 False
